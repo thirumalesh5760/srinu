@@ -72,3 +72,47 @@ git commit -m "my work is done"
 git status
 git push -u origin main
 git status
+which git
+git init
+mkdir thirumalesh manikiran roop raja
+ls
+touch file1 file2 file3
+ls
+git add .
+vi file1
+git add mani kiran raja roop thirmalesh
+git status
+git add file1 file2 file3
+git status
+git commit -m "task was comleted"
+git remote add origin https://github.com/thirumalesh5760/srinu.git
+git push -u origin master
+which git
+git clone https://github.com/thirumalesh5760/kiran.git
+git clone https://github.com/thirumalesh5760/roop.git
+ls
+rm -rf *
+mkdir movies
+cd movies
+touch pushpa kuushi
+ls
+cd
+vi pushpa
+git add movies
+git status
+git commit -m "updated"
+git status
+which git
+git clone https://github.com/thirumalesh5760/roop.git
+ls
+cat pushpa
+vi roop
+git add movies roop
+git status
+git add pushpa
+git status
+git add movies
+git status
+git commit -m "updated"
+git status
+git push -u origin main
