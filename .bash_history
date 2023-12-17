@@ -201,3 +201,39 @@ git commit -m "my work is done"
 git push -u orgin main
 cd 
 git push -u origin main
+which git
+git clone https://github.com/thirumalesh5760/srikanth.git
+ls
+cd srikanth
+touch file1
+vi file1
+cd 
+git add .
+git commit -m "my work is done"
+git status
+which git
+git clone https://github.com/thirumalesh5760/shiva.git
+ls
+rm -rf srikanth
+ls
+cd shiva
+touch file1
+vi file1
+git add .
+git status
+git commit -m "my work is done"
+git status
+git push -u origin main
+clear
+ls
+rm -rf *
+ls
+git init
+git add .
+git status
+git commit -m "updated"
+git status
+git remote add origin https://github.com/thirumalesh5760/naveen.git
+git remote add https://github.com/thirumalesh5760/naveen.git
+git push -u origin master
+git push -u origin main
