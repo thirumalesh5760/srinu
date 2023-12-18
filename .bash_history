@@ -250,3 +250,22 @@ git status
 git remote add origin https://github.com/thirumalesh5760/naveen.git
 git remote add https://github.com/thirumalesh5760/naveen.git
 git push -u origin master
+which git
+ls
+rm -rf *
+git init
+git add .
+git status
+git commit -m "my work is done"
+git status
+git remote add origin https://github.com/thirumalesh5760/suresh.git
+git push -u origin master
+clear
+ls
+touch file1 file2
+git init
+git add file1 file2
+git commit -m "added"
+git status
+git push -u origin master
+git log
