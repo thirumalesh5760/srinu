@@ -237,3 +237,16 @@ git remote add origin https://github.com/thirumalesh5760/naveen.git
 git remote add https://github.com/thirumalesh5760/naveen.git
 git push -u origin master
 git push -u origin main
+which git
+git init
+ls
+rm -rf *
+ls
+git add .
+git status
+git commit -u "my work is done"
+git commit -m "my work is done"
+git status
+git remote add origin https://github.com/thirumalesh5760/naveen.git
+git remote add https://github.com/thirumalesh5760/naveen.git
+git push -u origin master
